@@ -1,8 +1,9 @@
 <?php
-//Author: Yoosuf Moosa
-//Email: 7465188@gmail.com
-//sample usage: dhivehi(543.23) outputs the Thaana text of it.
-
+/*
+Author: Yoosuf Moosa
+Email: 7465188@gmail.com
+sample usage: <?php echo dhivehi(543.23); ?> outputs the Thaana text of it.
+*/
 
 
 
